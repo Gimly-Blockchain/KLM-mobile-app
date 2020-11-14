@@ -1,2 +1,2 @@
-# odyssey-momentum
-KLM cargoflow SSI solution with physical identifiers
+# KLM-mobile app
+KLM cargoflow SSI solution with physical identifiers, based on Commercio.network Amadeo fork.
